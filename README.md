@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# The Hole in the Oak for Foundry VTT
 
 ## Where to Purchase Premium Content
 
